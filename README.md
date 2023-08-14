@@ -12,7 +12,7 @@ My blogs and groups I manage:
 - :radio: [Old Tube Radios group in Facebook](https://www.facebook.com/groups/old.radio.group)
 - :radio: [Old Tube Radios Blog](https://www.tube-radio.com)
 
-:incoming_envelope: You can contact me at ```iosaaris =at= gmail dot com```
+:envelope: You can contact me at ```iosaaris =at= gmail dot com```
 
 **Best regards from Tel Aviv and 73 de 4X1MD**
 
